@@ -1,1 +1,0 @@
-conosle.log(1)
